@@ -1,0 +1,16 @@
+# python3.11
+fastapi==0.116.1
+httptools==0.6.4
+python-dotenv==1.1.1
+PyYAML==6.0.2
+uvicorn==0.35.0
+websockets==15.0.1
+wheel==0.45.1
+APScheduler==3.11.0
+elasticsearch==8.5.3
+aiohttp==3.12.15
+numpy==2.3.2
+pandas==2.3.1
+openpyxl==3.1.5
+pillow==11.3.0
+requests==2.32.4

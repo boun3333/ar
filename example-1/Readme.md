@@ -1,1 +1,0 @@
-* helloworld 예제
